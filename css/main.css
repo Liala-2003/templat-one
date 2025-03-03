@@ -167,7 +167,7 @@ z-index: 1;
 /* end header */
 /* start landing  */
 .landing {
-    background-image:url(/imges/IMG-20250301-WA0004.jpg);
+    background-image:url(../imges/IMG-20250301-WA0004.jpg);
     background-size: cover;
     height: calc(100vh - 64px);
     position: relative;
